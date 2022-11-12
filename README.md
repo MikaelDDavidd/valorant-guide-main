@@ -11,7 +11,7 @@
 
 ![Design](https://github.com/durannumit/valorant-guide/blob/main/screenshots/design.jpeg)
 <p align="center">
-  Design by: <a href="https://dribbble.com/shots/14073476-Valorant-Agents">Mikael David</a>
+  Design by: <a href="https://dribbble.com/shots/14073476-Valorant-Agents">Malik Abimanyu</a>
 </p>
 
 <p align="center">
