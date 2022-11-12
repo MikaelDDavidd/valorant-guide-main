@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.mozilla.org/en-US/MPL/2.0/"><img alt="License" src="https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg"/></a>
-  <a href="https://twitter.com/Mikaeld98471967"><img alt="API" /></a>
+  <a href="https://twitter.com/Mikaeld98471967"><img alt="API" src="https://img.shields.io/twitter/follow/Mikaeld98471967?style=social"/></a>
 </p>
 
 <p align="center">
