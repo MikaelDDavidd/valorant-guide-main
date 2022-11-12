@@ -1,7 +1,7 @@
 <h1 align="center"> Valorant Guide </h1>
 
 <p align="center">
-  <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
+  <a href="https://www.mozilla.org/en-US/MPL/2.0/"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
   <a href="https://twitter.com/Mikaeld98471967"><img alt="API" src="https://img.shields.io/twitter/follow/kaeldavidd?style=social"/></a>
 </p>
 
