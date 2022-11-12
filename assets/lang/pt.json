@@ -1,0 +1,17 @@
+{
+  "login_start": "Below are list of strings for login",
+  "login_et_user_email": "Insira seu email",
+  "login_et_user_password": "Insira sua senha",
+  "login_btn_forgot_password": "Esquecue a senha?",
+  "login_btn_sign_in": "Cadastrar ",
+  "login_error_fill_fields": "Por favor complete todos os campos",
+  "login_end": "------------------------------------------------------------------------------------",
+
+  "home_start": "Below are list of strings for home",
+  "home_tv_posts": "Publicações",
+  "home_tv_error": "Erro",
+  "home_tv_no_post_found": "Nenhum post Encotnrado",
+  "home_tv_choose_language": "Escolha um idioma",
+  "home_end": "-------------------------------------------------------------------------------------"
+
+}
