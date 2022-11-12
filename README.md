@@ -1,7 +1,7 @@
 <h1 align="center"> Valorant Guide </h1>
 
 <p align="center">
-  <a href="https://www.mozilla.org/en-US/MPL/2.0/"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
+  <a href="https://www.mozilla.org/en-US/MPL/2.0/"><img alt="License" src="https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg"/></a>
   <a href="https://twitter.com/Mikaeld98471967"><img alt="API" src="https://img.shields.io/twitter/follow/kaeldavidd?style=social"/></a>
 </p>
 
@@ -9,7 +9,7 @@
   Design
 </p>
 
-![Design](https://github.com/durannumit/valorant-guide/blob/main/screenshots/design.jpeg)
+![Design](https://github.com/MikaelDDavidd/valorant-guide-main/blob/main/screenshots/design.jpeg)
 <p align="center">
   Design by: <a href="https://dribbble.com/shots/14073476-Valorant-Agents">Malik Abimanyu</a>
 </p>
